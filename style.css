@@ -33,6 +33,31 @@ nav li a:hover {
   background-color: #111;
 }
 
+.services{
+  background-color: #ddd;
+  color: black;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.about{
+  background-color: #ddd;
+  padding: 10px;
+  height: 200px;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.contact{
+  background-color: #f1f1f1;
+  padding: 10px;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
 .banner {
   background-image: url("https://source.unsplash.com/1600x900/?trucks");
   background-repeat: no-repeat;
